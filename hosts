@@ -4,5 +4,6 @@
 0.0.0.0 event.bblmw.com
 0.0.0.0 e.bambulab.com
 0.0.0.0 us.mqtt.bambulab.com
+0.0.0.0 cn.mqtt.bambulab.com
 0.0.0.0 api.bambulab.com
 # END CUSTOM BLOCKLIST ### DO NOT EDIT THIS LINE AT ALL ###
